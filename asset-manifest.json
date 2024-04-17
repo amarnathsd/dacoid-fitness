@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/dacoid-fitness/static/css/main.803bc1cd.css",
+    "main.js": "/dacoid-fitness/static/js/main.20b64fcc.js",
+    "static/js/453.ec349a41.chunk.js": "/dacoid-fitness/static/js/453.ec349a41.chunk.js",
+    "static/media/GetBurn.png": "/dacoid-fitness/static/media/GetBurn.94822e49e83cacfba3d9.png",
+    "static/media/TrackYourGoal.png": "/dacoid-fitness/static/media/TrackYourGoal.1c47a5a771b4b7a750e8.png",
+    "index.html": "/dacoid-fitness/index.html",
+    "main.803bc1cd.css.map": "/dacoid-fitness/static/css/main.803bc1cd.css.map",
+    "main.20b64fcc.js.map": "/dacoid-fitness/static/js/main.20b64fcc.js.map",
+    "453.ec349a41.chunk.js.map": "/dacoid-fitness/static/js/453.ec349a41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.803bc1cd.css",
+    "static/js/main.20b64fcc.js"
+  ]
+}
