@@ -13,7 +13,7 @@ function App() {
     <div className="mx-auto max-w-[385px] min-h-screen border-blue-600 border rounded-sm">
       <Router>
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/dacoid-fitness" element={<Home />} />
           <Route path="/signin" element={<SignIn />} />
           <Route path="/signup" element={<SignUp />} />
           <Route path="/goals" element={<Goals />} />
